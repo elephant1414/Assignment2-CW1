@@ -19,7 +19,7 @@ table(penguins$species)
 
 table(penguins$species, penguins$island)
 table(penguins$species, penguins$sex)
-
+##this was helpful in examining the dataset
 ```
 
 library(readr)
